@@ -202,3 +202,7 @@ Machine Learning and Data Analytics Project
 ## License
 
 This project is intended for educational, portfolio, and demonstration purposes.
+
+## 🚀 Live Demo
+
+[Open Customer Segmentation Dashboard](https://customer-segmentation-ml-nbpbfpukhtjiqzlwwey7er.streamlit.app/)
